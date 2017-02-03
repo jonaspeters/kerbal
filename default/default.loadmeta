@@ -1,5 +1,5 @@
 vesselCount = 0
-UT = 180062.01354680746
+UT = 180059.23354680891
 gameMode = SCIENCE_SANDBOX
 gameNull = False
 gameCompatible = True
@@ -7,4 +7,4 @@ funds = 0
 science = 30
 reputationPercent = 0
 ongoingContracts = 0
-saveMD5 = 509d48be45b565c17049454cfad7de9a
+saveMD5 = fdb01b4fdc87d455e25114e4800a3aba
